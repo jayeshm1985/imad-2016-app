@@ -1,3 +1,3 @@
 # imad-2016-app
 
-I is a test web application
+It is a test web application
