@@ -18,6 +18,9 @@ body {
 
 .img-medium {
     height: 200px;
+    position:absolute;
+    width:100%;
+    text-align: center; 
 }
 
   body {
